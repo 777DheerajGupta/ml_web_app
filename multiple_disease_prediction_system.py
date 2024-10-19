@@ -33,7 +33,7 @@ with st.sidebar:
 if(selected == 'Diabetes Prediction'):
         
         #page title
-        st.title('Diabtetes  Preduction by ML')
+        st.title('Diabtetes  Prediction by ML')
         
         
         #getting the input data from the user
